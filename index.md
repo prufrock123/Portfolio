@@ -1,6 +1,10 @@
 # My Portfolio
 **Below you can find a sample of some of my work.**
 
+## Unearth Israel
+A simple static site for my Sunday School class created with Jekyll.
+
+[UnearthIsrael](https://prufrock123.github.io/unearthIsrael/)
 
 ## ColorClock
 A clock who's hour, minute and second values represent the red, green and blue values of the background respectively. As the time ticks, the colors change accordingly.

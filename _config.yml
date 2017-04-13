@@ -1,0 +1,8 @@
+title: Portfolio
+description: My portfolio page
+google_analytics: UA-57704201-1
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
